@@ -1,4 +1,4 @@
-﻿
+Kevin Puentes Yaya - 20151020040
 Aplicación del concepto de árbol n-ario para un juego de laberinto en Python.
 El laberinto está diseñado con 1,0,x,y . 
 El símbolo 1 representa una barrera o un muro, por el cual el jugador x , no podrá pasar.
